@@ -1029,3 +1029,9 @@ and anti-analysis techniques.
 	- Interpret your model and communicate what it implies.
 - [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
 - [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
+
+
+### Interactive Learning Platforms & Compilers
+
+- [A1Lab](https://a1lab.tech) **Interactive Coding Platform & Live Browser Compiler** <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+	- A free browser-based execution environment and coding practice platform for students. Practice Python, SQL, C++, HTML, CSS, and JavaScript with instant auto-grading and zero setup.
